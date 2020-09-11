@@ -1,2 +1,2 @@
 # MyFirstRepository
-Tutorial Repository
+Hey I'm Daechul c
